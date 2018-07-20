@@ -1,8 +1,8 @@
 # Linux Server Setup and Configuration
 ## Access the server
-**Server IP address:** 178.128.37.166
-**SSH port:** 2200
-**Address of hosted itemcatalog application:** http://178.128.37.166.xip.io/
+- **Server IP address:** 178.128.37.166
+- **SSH port:** 2200
+- **Address of hosted itemcatalog application:** http://178.128.37.166.xip.io/
 
 ## Software Installed
 - Apache server software
