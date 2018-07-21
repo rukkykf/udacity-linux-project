@@ -10,6 +10,14 @@
 - Postgresql was installed but not used
 - Git
 
+## Database
+Sqlite is used for the database and the database instance can be found in
+home/rukykf/itemcat/venv/var/itemcatalog-instance
+
+All the files for the itemcatalog application can be found in 
+home/rukykf/itemcat/venv/lib/python2.7/site-packages/itemcatalog
+The database configuration for the itemcatalog app is in the __init__.py file in the itemcatalog folder. 
+
 ## Configuration changes made
 - UFW was used to only allow traffic for HTTP, SSH and NTP
 - Login with password is disabled on the server, users must login with their private key
